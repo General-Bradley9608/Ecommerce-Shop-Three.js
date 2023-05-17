@@ -1,0 +1,11 @@
+Model Information:
+* title:	Xiaomi Mi 8 Lite
+* source:	https://sketchfab.com/3d-models/xiaomi-mi-8-lite-ce44757412ba4cc18433c142855fd043
+* author:	PapaPvP (https://sketchfab.com/PapaPvP)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Xiaomi Mi 8 Lite" (https://sketchfab.com/3d-models/xiaomi-mi-8-lite-ce44757412ba4cc18433c142855fd043) by PapaPvP (https://sketchfab.com/PapaPvP) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

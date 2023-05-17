@@ -1,0 +1,25 @@
+.checkout-confirmation {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .checkout-confirmation .tick {
+    font-size: 80px;
+    color: #34b04f;
+  }
+  
+  .checkout-confirmation h2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #34b04f;
+  }
+  
+  .checkout-confirmation p {
+    margin-bottom: 10px;
+    color: #34b04f;
+  }

@@ -1,0 +1,31 @@
+.admin-orders {
+    margin: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #3cb371; /* Green */
+    color: #fff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2; /* Light gray */
+  }
+  
+  tr:hover {
+    background-color: #d3d3d3; /* Dark gray on hover */
+  }
+  
+  td {
+    color: #555;
+  }

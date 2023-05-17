@@ -1,0 +1,11 @@
+Model Information:
+* title:	VR Headset Free Model
+* source:	https://sketchfab.com/3d-models/vr-headset-free-model-51b8dbff65e247979f068914f6197909
+* author:	Vitamin (https://sketchfab.com/btrseller)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VR Headset Free Model" (https://sketchfab.com/3d-models/vr-headset-free-model-51b8dbff65e247979f068914f6197909) by Vitamin (https://sketchfab.com/btrseller) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

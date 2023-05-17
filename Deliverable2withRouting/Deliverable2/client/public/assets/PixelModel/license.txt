@@ -1,0 +1,11 @@
+Model Information:
+* title:	Google Pixel 5
+* source:	https://sketchfab.com/3d-models/google-pixel-5-dae8c347f87d400b82b69a6a33da9ece
+* author:	minhazul_ferdous (https://sketchfab.com/minhazul_ferdous)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Google Pixel 5" (https://sketchfab.com/3d-models/google-pixel-5-dae8c347f87d400b82b69a6a33da9ece) by minhazul_ferdous (https://sketchfab.com/minhazul_ferdous) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

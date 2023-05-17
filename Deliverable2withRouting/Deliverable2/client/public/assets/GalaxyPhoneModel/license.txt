@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samsung S21 Ultra
+* source:	https://sketchfab.com/3d-models/samsung-s21-ultra-83c040b282934cf38b3f58a07c40516c
+* author:	bendjama1986 (https://sketchfab.com/bendjama1986)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samsung S21 Ultra" (https://sketchfab.com/3d-models/samsung-s21-ultra-83c040b282934cf38b3f58a07c40516c) by bendjama1986 (https://sketchfab.com/bendjama1986) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Galaxy Edge Watch
+* source:	https://sketchfab.com/3d-models/galaxy-edge-watch-40075ec585ac4f71825c8aad46a2a223
+* author:	ash.omran7 (https://sketchfab.com/ash.omran7)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Galaxy Edge Watch" (https://sketchfab.com/3d-models/galaxy-edge-watch-40075ec585ac4f71825c8aad46a2a223) by ash.omran7 (https://sketchfab.com/ash.omran7) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

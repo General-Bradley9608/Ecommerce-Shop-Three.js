@@ -1,0 +1,11 @@
+Model Information:
+* title:	Huawei Nova 7i
+* source:	https://sketchfab.com/3d-models/huawei-nova-7i-ce3c3e01a1f84dc5ac002dfd73edd841
+* author:	AlaPasta (https://sketchfab.com/ATK-G)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Huawei Nova 7i" (https://sketchfab.com/3d-models/huawei-nova-7i-ce3c3e01a1f84dc5ac002dfd73edd841) by AlaPasta (https://sketchfab.com/ATK-G) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
