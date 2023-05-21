@@ -20,7 +20,7 @@ export default function Mi10TModel() {
     
           gltfScene.scene.rotation.y = 1;
           gltfScene.scene.position.y = 3;
-          gltfScene.scene.scale.set(200, 200, 200);
+          gltfScene.scene.scale.set(400, 400, 400);
           test.scene.add(gltfScene.scene);
         });
     

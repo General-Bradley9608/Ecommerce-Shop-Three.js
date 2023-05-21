@@ -219,7 +219,7 @@ app.post('/Subtractqtycart',async(req,res) => {
     let userCart = await cart.findOne({ email: email, ID: id });
     
    // console.log(userCart);
-    if(userCart.quantity === 1)
+    if(userCart.quantity === 0)
     {
           userCart.deleteOne({email:email,ID:id});          
     }
@@ -298,7 +298,7 @@ app.get('/orders', async (req, res) => {
 app.post('/deletecartrecord',async(req,res) => {
     
 
-  const response = await cart.deleteOne({ email: req.body.email });
+  const response = await cart.deleteMany({ email: req.body.email });
   if (response.deletedCount === 0) {
     console.log("No records deleted");
   } else {

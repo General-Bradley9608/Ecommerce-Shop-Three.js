@@ -182,7 +182,7 @@ export default function ShopSingleMetaQuest() {
             </div>
             <div className="row pb-3">
               <div className="col d-grid">
-                <button type="buttom"  onClick={handleClick} className="btn btn-success btn-lg" name="submit" value="buy">View in 3D</button>
+                <button type="button"  onClick={handleClick} className="btn btn-success btn-lg">View in 3D</button>
               </div>
               <div className="col d-grid">
                 <button
