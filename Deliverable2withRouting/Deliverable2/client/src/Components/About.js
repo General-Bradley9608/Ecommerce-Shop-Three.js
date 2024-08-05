@@ -10,7 +10,7 @@ export default function About() {
             <div className="col-md-8 text-white">
               <h1>About Us</h1>
               <p>
-                Welcome to Get It Now.pk, where we strive to provide the best in class electronic products to our customers. The best user experience with 3D view of our Product.
+                Welcome to Get It Now, where we strive to provide the best in class electronic products to our customers. The best user experience with 3D view of our Product.
               </p>
               <p>
                 Our extensive range of electronics includes everything from smartphones, laptops, tablets, gaming consoles, to home appliances, and accessories.

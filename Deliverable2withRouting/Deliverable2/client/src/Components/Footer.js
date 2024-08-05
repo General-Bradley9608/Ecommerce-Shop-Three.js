@@ -18,7 +18,7 @@ export default function Footer() {
 
                 <div className="col-md-4 pt-5">
                     <h2 className="h2 text-success border-bottom pb-3 border-light logo">Get It Now</h2>
-                    <ul className="list-unstyled text-light footer-link-list">
+                    {/* <ul className="list-unstyled text-light footer-link-list">
                         <li>
                             <i className="fas fa-map-marker-alt fa-fw"></i>
                             852-B Miaad St Faisal Town, Lahore
@@ -31,7 +31,7 @@ export default function Footer() {
                             <i className="fa fa-envelope fa-fw"></i>
                             <a className="text-decoration-none" href="mailto:l201268@lhr.nu.edu.pk">l201268@lhr.nu.edu.pk</a>
                         </li>
-                    </ul>
+                    </ul> */}
                 </div>
 
                 <div className="col-md-4 pt-5">
@@ -89,7 +89,7 @@ export default function Footer() {
                 <div className="row pt-2">
                     <div className="col-12">
                         <p className="text-left text-light">
-                            Copyright &copy; 2021 Get It Now.pk 
+                            Copyright &copy; 2023 Get It Now 
                         </p>
                     </div>
                 </div>
